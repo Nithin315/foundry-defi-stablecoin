@@ -1,0 +1,6 @@
+@openzeppelin/contracts/=lib/openZeppelin-contracts/contracts/
+chainlink-brownie-contracts/=lib/chainlink-brownie-contracts/
+erc4626-tests/=lib/openZeppelin-contracts/lib/erc4626-tests/
+forge-std/=lib/forge-std/src/
+halmos-cheatcodes/=lib/openZeppelin-contracts/lib/halmos-cheatcodes/src/
+openZeppelin-contracts/=lib/openZeppelin-contracts/
